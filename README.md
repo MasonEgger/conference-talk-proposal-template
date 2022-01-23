@@ -14,17 +14,22 @@ Single Overarching Theme
 Ex: DevOps, Python, Community
 
 ## Elevator Pitch (300 Character Limit)
-300 characters or less elevator pitch. Include Audience Takeaways
+300 characters or less elevator pitch. 
+Include Audience Takeaways
 
 ## Audience
 * Who is this for?
-* Can be many different types of audiences
+* Can be many different audiences
 
 ## Audence Level
-Level of expertise required for this talk. Include prerequisites
+Expertise required for this talk
+Include prerequisites
 
 ## Audiece Takeaways
-What will the audience take away from this? Should be 3 things
+What will the audience take away 
+and/or learn from this talk? 
+
+Should be 3 things
 
 ## Outline
 * Timed outline (1 min)
@@ -32,12 +37,16 @@ What will the audience take away from this? Should be 3 things
 * More detail is good here (20 min)
 
 ## Description
-Slightly longer description that expands upon elevator pitch. Be sure to include
-Audience Takeaways
+Slightly longer description. 
+Expands upon elevator pitch. 
+Be sure to include Audience Takeaways
 
 ## Internal Notes (For Your Eyes Only)
-All the nitty gritty of the talk. Your scratch paper
+All the nitty gritty of the talk. 
+Your scratch paper
 
 ## Additional Notes
-Anything else. Presentation materials needed, why you're qualified to speak on this, etc.
-
+Anything else. 
+Presentation materials needed
+Why you're qualified to speak on this
+Etc.
