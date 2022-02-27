@@ -1,5 +1,5 @@
 _When I'm filling out this template, I usually keep all of the titles and fill in the information
-underneath._
+underneath. How I use this template is explained in depth on my [blog](https://mason.dev/blog/010-writing_talk_proposals/)_
 
 ---
 
