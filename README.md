@@ -21,11 +21,11 @@ Include Audience Takeaways
 * Who is this for?
 * Can be many different audiences
 
-## Audence Level
+## Audience Level
 Expertise required for this talk
 Include prerequisites
 
-## Audiece Takeaways
+## Audience Takeaways
 What will the audience take away 
 and/or learn from this talk? 
 
